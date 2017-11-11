@@ -1,0 +1,27 @@
+.form-control {
+  border-radius: 0;
+  border:none;
+  border-bottom: 1px dotted #999;
+  padding-top: 0px;
+
+}
+
+.form-group {
+  margin-bottom: 1rem;
+}
+
+label{
+  color: #999;
+}
+
+h3 {
+  color:#999999;
+}
+
+
+/*alertifyJs*/
+.alertify-notifier .ajs-message.ajs-visible {
+  border-radius: 5px;
+  border:1px solid #ccc;
+  color: #fff;
+}
